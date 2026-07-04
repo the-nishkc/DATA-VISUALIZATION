@@ -174,11 +174,6 @@ using Tableau Public/Desktop.
 
 ---
 
-## 📷 Dashboard Preview
-
-(Add screenshots here)
-
----
 
  Author
 
